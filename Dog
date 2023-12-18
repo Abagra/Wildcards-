@@ -1,3 +1,10 @@
 public class Dog  extends  Animal{
+    public void eat(){
+        System.out.println("Гав  ням ");
+    }
+    public void silenc()
+    {
+        System.out.println("ГАВ ГАВ ГАВ");
+    }
 
 }
